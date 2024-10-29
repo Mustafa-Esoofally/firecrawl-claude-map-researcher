@@ -102,6 +102,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact 📧
 
-Your Name - [@yourtwitter](https://twitter.com/yourtwitter)
-
-Project Link: [https://github.com/yourusername/website-info-extractor](https://github.com/yourusername/website-info-extractor)
+Your Name - [@mustafa2vec](https://x.com/mustafa2vec)
